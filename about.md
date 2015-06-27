@@ -5,6 +5,9 @@ title: About
 
 Biologist. Runner.
 About biology, openscience, media, politics
-(@varlottaang)[http://twitter.com/varlottaang] on Twitter
+If you like my blog, you can follow me on Twitter <a href="http://twitter.com/varlottaang">@varlottaang</a> and on <a href="https://medium.com/@angelovarlotta">Medium</a>
+
+
+
 
 
