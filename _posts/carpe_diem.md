@@ -14,6 +14,6 @@ aetas: carpe diem, quam minimum credula postero.
 (Quintus Horatius Flaccus)
 
 Text from Odes 1.11 
-source [Wikipedia](https://en.wikipedia.org/wiki/Carpe_diem)
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Carpe_diem)
 
 {% include twitter_plug.html %}
