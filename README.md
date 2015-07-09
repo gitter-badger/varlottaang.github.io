@@ -1,5 +1,7 @@
 # Poole
 
+[![Join the chat at https://gitter.im/varlottaang/varlottaang.github.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/varlottaang/varlottaang.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 *The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
 
 -----
